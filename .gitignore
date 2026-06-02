@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# 个人文件，不同步
+CLAUDE.md
+
+# 各技能的 README.md 为个人创作备忘，不同步
+*/README.md
